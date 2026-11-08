@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/kafka-k8s-operator/commit/a35dc7393b487a5794f347b4902da23192514412",
       "git:hexsha": "a35dc7393b487a5794f347b4902da23192514412",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/kafka-k8s-operator/commit/6c14adb38624c3213a9d4dd8d8b8d9e31dac000a",
